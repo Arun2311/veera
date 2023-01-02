@@ -2,6 +2,10 @@ import React, { useState } from "react";
 import "./Style.css";
 import { IoLogoWhatsapp } from "react-icons/io";
 import { BsTelephoneForwardFill } from "react-icons/bs";
+import { BiMap } from "react-icons/bi";
+
+
+
 
 
 
@@ -2011,23 +2015,10 @@ function Product() {
 
   return (
     <div className="product">
-      <h1 className="head">Products</h1>
+      <h1 className="head">Veera Furniture</h1>
+      <p className="subhead">Shop Your Favourites</p>
      
-      <div className="link">
-      <p>Contact Us</p>
-        <a
-          className="orange"
-          href="Tel:+919677211639"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <BsTelephoneForwardFill color="liteblue" fontSize={35} />
-        </a>
-        <a className="orange" href="https://wa.me/919677211639" target="blank">
-          <IoLogoWhatsapp color="green" fontSize={40} />
-        </a>
-    
-      </div>
+  
       <br></br>
       <div className="align-cont">
         {uniqcate.map((dep) => (
