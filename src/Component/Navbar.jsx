@@ -12,8 +12,8 @@ function Navbar() {
     <nav className="navbar  navbar-expand-lg bg-body-tertiary">
   <div className="container-fluid">
   <Link className="navbar-brand logoname " to="/">
-           <img src={logo} width={120} height="120px" className="logo" />
-         <span className="logoname">Veera Furniture</span>  
+           <img src={logo} width={80} height="60px" className="logo" />
+         <span className="logoname">Veera Furniture's</span>  
           </Link>
                <h2 className="logoname"></h2>
     <button className="navbar-toggler mr-n3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -23,7 +23,7 @@ function Navbar() {
       <ul className="navbar-nav mr-auto mb-2 mb-lg-0 navbarcontent">
         <li className="nav-item">
         <Link className="nav-link active " to="/">
-          <AiFillHome color="lightsalmon"/>
+          <AiFillHome color="rgb(2, 117, 216)"/>
           <span className="navbarcontent">Home</span>
           
           </Link>
@@ -31,14 +31,14 @@ function Navbar() {
         </li>
         <li className="nav-item">
           < Link className="nav-link" to="productpage ">
-            <MdProductionQuantityLimits color="lightsalmon"/>
+            <MdProductionQuantityLimits color="rgb(2, 117, 216)"/>
             <span className="navbarcontent">Product</span>
 
             </Link>
         </li>
         <li className="nav-item">
           < Link className="nav-link" to="contactpage">
-            <RiContactsBookFill color="lightsalmon"/>
+            <RiContactsBookFill color="rgb(2, 117, 216)"/>
             
             <span className="navbarcontent">Contact Us</span>
 
