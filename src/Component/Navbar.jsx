@@ -13,7 +13,7 @@ function Navbar() {
   <div className="container-fluid">
   <Link className="navbar-brand logoname " to="/">
            <img src={logo} width={80} height="60px" className="logo" />
-         <span className="logoname">Veera Furniture's</span>  
+         <span className="logoname">Veera Furnitures</span>  
           </Link>
                <h2 className="logoname"></h2>
     <button className="navbar-toggler mr-n3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
