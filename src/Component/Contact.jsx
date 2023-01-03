@@ -2,6 +2,8 @@ import React from 'react'
 import { IoLogoWhatsapp } from "react-icons/io";
 import { BsTelephoneForwardFill } from "react-icons/bs";
 import { BiMap } from "react-icons/bi";
+import { GrMail } from "react-icons/gr";
+
 import "./Style.css";
 
 
@@ -23,6 +25,11 @@ export default function Contact() {
      <a className="orange" href="https://wa.me/919677211639" target="blank">
        <IoLogoWhatsapp color="green" fontSize={40} />
        Whatsapp
+     </a>
+
+     <a className="orange" href="mailto:kdivakar4@gmail.com" target="blank">
+       <GrMail color="orange" fontSize={40} />
+      Mail
      </a>
      <a className="orange" href="https://goo.gl/maps/u3JyJX1LJ28nnhjE9" target="blank">
        < BiMap color="blue" fontSize={40} />
