@@ -2041,7 +2041,7 @@ function Product() {
                 <div className="card-body">
                   <h5 className="card-title">{furniture.title}</h5>
                   <a  href="https://goo.gl/maps/itvD8zmjPU5usSNEA" rel="noreferrer"   target="_blank" className="btn btn-primary">
-                    Rs : {furniture.price} Buy Now
+                     Buy Now
                   </a>
                 </div>
               </div>
