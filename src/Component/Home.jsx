@@ -2,10 +2,10 @@ import React from 'react'
 import {Link} from "react-router-dom"
 import "./Style.css"
 import Carousel from 'react-bootstrap/Carousel'
-import img1 from "./Assets/bedicon.jpg"
+import img1 from "./Assets/bediconfront.jpg"
 import img2 from "./Assets/sofa.webp"
 import img3 from "./Assets/table.webp"
-import img4 from "./Assets/dress.webp"
+import img4 from "./Assets/dressfront.jpg"
 
 
 

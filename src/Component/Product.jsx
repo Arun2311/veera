@@ -144,25 +144,25 @@ import pc18 from "./Assets/pc8.jfif";
 import pc19 from "./Assets/pc9.jfif";
 import pc20 from "./Assets/pc10.jfif";
 
-import pm11 from "./Assets/pm1.jfif";
-import pm12 from "./Assets/pm2.jfif";
-import pm13 from "./Assets/pm3.jfif";
-import pm14 from "./Assets/pm4.jfif";
+// import pm11 from "./Assets/pm1.jfif";
+// import pm12 from "./Assets/pm2.jfif";
+// import pm13 from "./Assets/pm3.jfif";
+import pm14 from "./Assets/pm4.jpg";
 import pm15 from "./Assets/pm5.jfif";
-import pm16 from "./Assets/pm6.jfif";
-import pm17 from "./Assets/pm7.jfif";
+import pm16 from "./Assets/pm6.jpg";
+import pm17 from "./Assets/pm7.jpg";
 import pm18 from "./Assets/pm8.jfif";
-import pm19 from "./Assets/pm9.jfif";
-import pm20 from "./Assets/pm10.jfif";
-import pm21 from "./Assets/pm11.jfif";
+// import pm19 from "./Assets/pm9.jfif";
+// import pm20 from "./Assets/pm10.jfif";
+// import pm21 from "./Assets/pm11.jfif";
 import pm22 from "./Assets/pm12.jfif";
 import pm23 from "./Assets/pm13.jfif";
-import pm24 from "./Assets/pm14.jfif";
-import pm25 from "./Assets/pm15.jfif";
-import pm26 from "./Assets/pm16.jfif";
-import pm27 from "./Assets/pm17.jfif";
+// import pm24 from "./Assets/pm14.jfif";
+import pm25 from "./Assets/pm15.jpg";
+// import pm26 from "./Assets/pm16.jfif";
+// import pm27 from "./Assets/pm17.jfif";
 import pm28 from "./Assets/pm18.jfif";
-import pm29 from "./Assets/pm19.jfif";
+import pm29 from "./Assets/pm19.jpg";
 import pm30 from "./Assets/pm20.jfif";
 
 import rc11 from "./Assets/rc1.jfif";
@@ -693,27 +693,27 @@ function Product() {
       img: wb20,
     },
     //  pooja mandabam//
-    {
-      id: 58,
-      title: " Pooja Mandapam",
-      category: poojaa1,
-      price: 9000,
-      img: pm11,
-    },
-    {
-      id: 59,
-      title: " Pooja Mandapam",
-      category: poojaa1,
-      price: 10000,
-      img: pm12,
-    },
-    {
-      id: 60,
-      title: " Pooja Mandapam",
-      category: poojaa1,
-      price: 9500,
-      img: pm13,
-    },
+    // {
+    //   id: 58,
+    //   title: " Pooja Mandapam",
+    //   category: poojaa1,
+    //   price: 9000,
+    //   img: pm11,
+    // },
+    // {
+    //   id: 59,
+    //   title: " Pooja Mandapam",
+    //   category: poojaa1,
+    //   price: 10000,
+    //   img: pm12,
+    // },
+    // {
+    //   id: 60,
+    //   title: " Pooja Mandapam",
+    //   category: poojaa1,
+    //   price: 9500,
+    //   img: pm13,
+    // },
     {
       id: 61,
       title: " Pooja Mandapam",
@@ -721,13 +721,13 @@ function Product() {
       price: 8800,
       img: pm14,
     },
-    {
-      id: 62,
-      title: " Pooja Mandapam",
-      category: poojaa1,
-      price: 7700,
-      img: pm15,
-    },
+    // {
+    //   id: 62,
+    //   title: " Pooja Mandapam",
+    //   category: poojaa1,
+    //   price: 7700,
+    //   img: pm15,
+    // },
     {
       id: 63,
       title: " Pooja Mandapam",
@@ -749,27 +749,27 @@ function Product() {
       price: 7700,
       img: pm18,
     },
-    {
-      id: 66,
-      title: " Pooja Mandapam",
-      category: poojaa1,
-      price: 6880,
-      img: pm19,
-    },
-    {
-      id: 67,
-      title: " Pooja Mandapam",
-      category: poojaa1,
-      price: 8760,
-      img: pm20,
-    },
-    {
-      id: 68,
-      title: " Pooja Mandapam",
-      category: poojaa1,
-      price: 9999,
-      img: pm21,
-    },
+    // {
+    //   id: 66,
+    //   title: " Pooja Mandapam",
+    //   category: poojaa1,
+    //   price: 6880,
+    //   img: pm19,
+    // },
+    // {
+    //   id: 67,
+    //   title: " Pooja Mandapam",
+    //   category: poojaa1,
+    //   price: 8760,
+    //   img: pm20,
+    // },
+    // {
+    //   id: 68,
+    //   title: " Pooja Mandapam",
+    //   category: poojaa1,
+    //   price: 9999,
+    //   img: pm21,
+    // },
     {
       id: 69,
       title: " Pooja Mandapam",
@@ -784,13 +784,13 @@ function Product() {
       price: 8888,
       img: pm23,
     },
-    {
-      id: 71,
-      title: " Pooja Mandapam",
-      category: poojaa1,
-      price: 8889,
-      img: pm24,
-    },
+    // {
+    //   id: 71,
+    //   title: " Pooja Mandapam",
+    //   category: poojaa1,
+    //   price: 8889,
+    //   img: pm24,
+    // },
     {
       id: 72,
       title: " Pooja Mandapam",
@@ -799,20 +799,20 @@ function Product() {
       img: pm25,
     },
 
-    {
-      id: 73,
-      title: " Pooja Mandapam",
-      category: poojaa1,
-      price: 9880,
-      img: pm26,
-    },
-    {
-      id: 74,
-      title: " Pooja Mandapam",
-      category: poojaa1,
-      price: 9890,
-      img: pm27,
-    },
+    // {
+    //   id: 73,
+    //   title: " Pooja Mandapam",
+    //   category: poojaa1,
+    //   price: 9880,
+    //   img: pm26,
+    // },
+    // {
+    //   id: 74,
+    //   title: " Pooja Mandapam",
+    //   category: poojaa1,
+    //   price: 9890,
+    //   img: pm27,
+    // },
     {
       id: 75,
       title: " Pooja Mandapam",
