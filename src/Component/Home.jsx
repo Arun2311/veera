@@ -6,6 +6,9 @@ import img1 from "./Assets/bediconfront.jpg"
 import img2 from "./Assets/sofa.webp"
 import img3 from "./Assets/table.webp"
 import img4 from "./Assets/dressfront.jpg"
+import { IoLogoWhatsapp } from "react-icons/io";
+import { BsTelephoneForwardFill } from "react-icons/bs";
+
 
 
 
@@ -46,8 +49,23 @@ function Home() {
           alt="Third slide" id="slide"
         />
       </Carousel.Item>
-    </Carousel>
-
+    </Carousel>\
+    <div className='iconsfront'>
+    <a
+       className="orange"
+       href="Tel:+919677211639"
+       target="_blank"
+       rel="noreferrer"
+     >
+       <BsTelephoneForwardFill color="liteblue" fontSize={35} />
+     
+       
+     </a>
+     <a className="orange" href="https://wa.me/919677211639" target="blank">
+       <IoLogoWhatsapp color="green" fontSize={40} />
+     
+     </a>
+     </div>
 
      </div>
     </div>

@@ -118,6 +118,21 @@ p {
 
 
 }
+
+.iconsfront{
+  display: flex;
+  flex-direction: column;
+  
+  /* align-items: flex-end;
+ position: relative;
+ overflow: hidden; * */
+ position: absolute;
+ bottom: 0;
+ right: 0;
+ 
+ /* font-size: 50px; */
+ /* margin-bottom: -400px; */
+}
 .imgfilter{
    border-radius: 50px;
    padding: 10px;
