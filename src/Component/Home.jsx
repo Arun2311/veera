@@ -19,8 +19,10 @@ function Home() {
          <section id="home">
           <div class="row">
              <div class="col-lg-6 col-md-6 col-12 order-1 pt-5"><h1 class="display-4" className='heading'>THE LATEST <span className='aa'>FURNITURE</span></h1>
-        <p class="my-lg-2 my-3">All types of Furnitures such as pooja mandapam, Sofas, Cots, Cupboards are availble at best price in Veera furniture Medavakkam</p>
-        <button class="btn btn-primary my-4"><Link to="productpage" className='btnn'>View Product</Link></button></div>
+             <button class="btn btn-primary my-4"><Link to="productpage" className='btnn'>View Product</Link></button>
+
+        <p class="my-lg-2 my-3">All types of Furnitures such as pooja mandapam, Sofas, Cots, Cupboards are availble at best price in Veera furnitures Perumbakkam</p>
+       </div>
 
      <div class="col-lg-6 col-md-6 col-12 py-lg-0 py-3 order-sm-2 ">
 

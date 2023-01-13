@@ -1650,76 +1650,76 @@ function Product() {
       img: d18,
     },
     // book self//
-    {
-      id: 194,
-      title: "Book self",
-      category: book1,
-      price: 8900,
-      img: bs11,
-    },
-    {
-      id: 195,
-      title: "Book self",
-      category: book1,
-      price: 5500,
-      img: bs12,
-    },
-    {
-      id: 196,
-      title: "Book self",
-      category: book1,
-      price: 9900,
-      img: bs13,
-    },
-    {
-      id: 197,
-      title: "Book self",
-      category: book1,
-      price: 5600,
-      img: bs14,
-    },
-    {
-      id: 198,
-      title: "Book self",
-      category: book1,
-      price: 7500,
-      img: bs15,
-    },
-    {
-      id: 199,
-      title: "Open self",
-      category: book1,
-      price: 4500,
-      img: os11,
-    },
-    {
-      id: 200,
-      title: "Open self",
-      category: book1,
-      price: 7900,
-      img: os12,
-    },
-    {
-      id: 201,
-      title: "Open self",
-      category: book1,
-      price: 6600,
-      img: os13,
-    },
-    {
-      id: 202,
-      title: "Open self",
-      category: book1,
-      price: 8880,
-      img: os14,
-    },
-    {
-      id: 203,
-      title: "Open self",
-      category: book1,
-      price: 5600,
-      img: os15,
-    },
+    // {
+    //   id: 194,
+    //   title: "Book self",
+    //   category: book1,
+    //   price: 8900,
+    //   img: bs11,
+    // },
+    // {
+    //   id: 195,
+    //   title: "Book self",
+    //   category: book1,
+    //   price: 5500,
+    //   img: bs12,
+    // },
+    // {
+    //   id: 196,
+    //   title: "Book self",
+    //   category: book1,
+    //   price: 9900,
+    //   img: bs13,
+    // },
+    // {
+    //   id: 197,
+    //   title: "Book self",
+    //   category: book1,
+    //   price: 5600,
+    //   img: bs14,
+    // },
+    // {
+    //   id: 198,
+    //   title: "Book self",
+    //   category: book1,
+    //   price: 7500,
+    //   img: bs15,
+    // },
+    // {
+    //   id: 199,
+    //   title: "Open self",
+    //   category: book1,
+    //   price: 4500,
+    //   img: os11,
+    // },
+    // {
+    //   id: 200,
+    //   title: "Open self",
+    //   category: book1,
+    //   price: 7900,
+    //   img: os12,
+    // },
+    // {
+    //   id: 201,
+    //   title: "Open self",
+    //   category: book1,
+    //   price: 6600,
+    //   img: os13,
+    // },
+    // {
+    //   id: 202,
+    //   title: "Open self",
+    //   category: book1,
+    //   price: 8880,
+    //   img: os14,
+    // },
+    // {
+    //   id: 203,
+    //   title: "Open self",
+    //   category: book1,
+    //   price: 5600,
+    //   img: os15,
+    // },
 
     // teapoy table//
     {
@@ -2015,8 +2015,8 @@ function Product() {
 
   return (
     <div className="product">
-      <h1 className="head">Veera Furniture</h1>
-      <p className="subhead">Shop Your Favourites</p>
+      {/* <h1 className="head">Veera Furniture</h1> */}
+      {/* <p className="subhead">Shop Your Favourites</p> */}
      
   
       <br></br>
